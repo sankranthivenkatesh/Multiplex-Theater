@@ -14,5 +14,5 @@ Our project has the following limitations:-
 3.Advanced booking for the upcoming movies (2 or 3 months before the movie is released) is not included but can be included later. 
 4.Also, a printing system will not be in this project. In future, a ticket printing system can be integrated. 
 5.The customers who have booked the tickets must reach the multiplex 30 minutes prior to the show time or else ticket will get cancelled.
-#Technologies:
+# Technologies:
  Java, JDBC, MySQL, Maven, JUnit, Log4J
